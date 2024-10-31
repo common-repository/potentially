@@ -1,0 +1,29 @@
+.oc-potentially-dashboard-widget svg {
+  height: 65px;
+  width: 85px;
+
+  vertical-align: text-bottom;
+}
+
+.oc-potentially-dashboard-widget svg path {
+  color: #81d742;
+}
+
+.oc-potentially-dashboard-widget .oc-center {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.oc-potentially-dashboard-widget .oc-data {
+  font-size: 70px;
+  font-weight: 700;
+  line-height: 1.2;
+}
+
+.oc-potentially-dashboard-widget .oc-description {
+  color: #888;
+  font-size: 18px;
+  font-weight: 700;
+  text-align: center;
+}
